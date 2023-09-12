@@ -50,7 +50,7 @@
       <link href="/2022/11/esp32s3%E5%BC%80%E6%BA%90/"/>
       <url>/2022/11/esp32s3%E5%BC%80%E6%BA%90/</url>
       
-        <content type="html"><![CDATA[<p> 借鉴了众多的开源项目和官方的资料，画了一款基于ESP32S3的板子，加上了mpu6050、GPS(串口引出)、五向开关、2.0寸LCD、SD卡槽。已经完成验证。如图：</p><p><img src="https://raw.githubusercontent.com/chenfenghao/chenfenghao.github.io/main/images/favicon.png" alt="板子正面"></p><p>画的粗糙，希望指出不足和提出建议，欢迎交流学习！<br>项目链接：<a href="www.baidu.com">github仓库</a>我会把它放到仓库里面</p>]]></content>
+        <content type="html"><![CDATA[<p> 借鉴了众多的开源项目和官方的资料，画了一款基于ESP32S3的板子，加上了mpu6050、GPS(串口引出)、五向开关、2.0寸LCD、SD卡槽。已经完成验证。如图：</p><center><img src="/images/正面.png" wdith=10px  />Figure 1. 正面</center><div style="display:inline-block;"> <img width="10%" src="https://hello-jimmy.oss-cn-beijing.aliyuncs.com/20230522141323.png" alt="Your Image" style="float: left; margin-right: 10px;"> </div><img style="float: left; margin-right: 10px;" src="https://hello-jimmy.oss-cn-beijing.aliyuncs.com/20230522141323.png" width="50%" /><p>画的粗糙，希望指出不足和提出建议，欢迎交流学习！<br>项目链接：<a href="www.baidu.com">github仓库</a>我会把它放到仓库里面</p>]]></content>
       
       
       
